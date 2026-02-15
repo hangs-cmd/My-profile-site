@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(start \"\" \"C:\\\\Users\\\\LEE\\\\workspace\\\\My-profile-site\\\\index.html\")"
+    ]
+  },
+  "outputStyle": "Explanatory"
+}
